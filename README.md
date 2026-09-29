@@ -895,6 +895,15 @@ Numerous organizations frequently share their insights and expertise, encompassi
 </details>
 
 <details>
+  <summary>MIDDLEWARE</summary>
+
+  ### Blog Posts
+  
+* [Middleware OpsAI: The AI SRE Agent That Resolves Production Issues Before They Reach Your Users](https://middleware.io/blog/ops-ai-sre-agent/).
+<details>
+  <summary>MIDDLEWARE</summary>
+  
+<details>
   <summary>MIRO</summary>
 
 ### Blog Posts
